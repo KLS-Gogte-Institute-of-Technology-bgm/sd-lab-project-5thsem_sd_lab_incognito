@@ -3,10 +3,10 @@
 <h1><b>Parking Lot Management System </b></h1>
 <p>As we know, due to increase in number of cars and limited spots ,parking the cars is getting difficult. In metropolitan cities, car parking has become a major concern in all busy areas, and a good traffic system need a good parking system. In this project ,we have made a system where it is possible to reserve a parking spot ahead in time as to reduce the need to search parking spots and the unnecessary rush. This parking lot does not require a parking attendant. It will save a lot our time and it keeps all the records properly.The system has backup files and the system is secured.
 
-<h3><b>Built with</b></h3>
-PHP
-CSS
-Javascript
+<h3><b>Built with</b></h3><br>
+PHP<br>
+CSS<br>
+Javascript<br>
 MySQL
 
 <h3>Authors</h3>
